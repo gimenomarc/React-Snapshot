@@ -1,0 +1,8 @@
+.container-pantalla {
+    width: 80%;
+    min-height: 40rem;
+    background-color: black;
+    border: 1px solid green;
+    border-radius: 20px;
+    scroll-behavior: auto;
+}
